@@ -14,9 +14,9 @@ bronze_transactions
 | isFlaggedFraud      |
 | ingestion_timestamp |
 | source_file_name    |
-| Column              |
 
 silver_transactions
+| Column              |
 | ------------------- |
 | transaction_id      |
 | step                |
